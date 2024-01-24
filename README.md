@@ -2,6 +2,7 @@
 # Attendance Management System
 
 This was the first team project developed by us during our **First Year**, to brush up our concepts of learned language C.
+It is made using *Menu-Driven* Coding concept.
 
 #### This is a basic command line project who's function is: 
 * To take **attendance of student** 
