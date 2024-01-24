@@ -22,7 +22,7 @@ It is made using *Menu-Driven* Coding concept.
 - Deleting or Inserting New Names won't effect previously taken attendance.
 
 
-## Contributors
+## Team Members
 
  - [@AbhayPratapSingh](https://github.com/Abhaypratapsingh0)
  - [@AyushJaiswal](https://github.com/AYUSHJAISWAL220112096)
